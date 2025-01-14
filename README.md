@@ -1,1 +1,1 @@
-dotnet publish -c Release --output ./publish
+dotnet publish -c Release --output ./docs
